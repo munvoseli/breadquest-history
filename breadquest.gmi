@@ -152,6 +152,10 @@ Coral was developing a deep reinforcement learning agent on 2021-01-27.
 
 Coral's server is available to the public.
 
+## ubq rest zone (2021-03-05)
+
+There is a rest zone, signed by ubq, dated 2021-03-05.  It is probable that this is the date the zone was discovered.
+
 ## WhileTrue stream (2021-04-15)
 
 WhileTrue streamed BreadQuest.  They talk about speedrunning.  This is a recurring idea - on 2021-01-27, WhileTrue talked about speedrunning BreadQuest on the Discord.
