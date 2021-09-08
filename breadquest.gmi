@@ -231,6 +231,18 @@ Melobot: it demonstrates inclusivity
 
 => spawnenemy.png
 
+## Melody client 3 (2021-05-29)
+
+While interviewing DayDun, Melody learned that they didn't need to sign in to BreadQuest via WebSocket, and started work on a client page, instead of a client script.
+
+An unfortunate incident caused possible gigabytes of commands to be sent to the server.  However, their slow Internet connection saved the day.  The bug was fixed.
+
+Firefox has released an update that disables that WebSocket authentication bug/feature, so new versions of Firefox cannot be used (78.13.0esr works, 92.0 does not).
+
+## Double rest zone (2021-05-30)
+
+A rest zone, Mel A, was found less than 300 blocks from Mel 7.
+
 # things
 
 Melody has left many types of trails in the world.
@@ -348,3 +360,17 @@ Pointless road | -1000, -3551/-2991
 ```
 
 => pointlessroad.png
+
+# include in future
+
+ubq:
+
+```
+at about x=5000 there's a small base built by boteram with some bread art in it
+at about 6500 there's a rest zone discovered by me
+if you keep going there are some tunnels going downwards to a zone i was going to use for testing things but never did
+there are a couple of rest zones connected to that
+if you keep following the tunnel you get to heav's base
+at about 11k i think?
+then at about 15k there's a north-south tunnel built by boteram
+```
