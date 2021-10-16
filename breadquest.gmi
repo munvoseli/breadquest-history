@@ -353,6 +353,8 @@ There are two Among Us figures at y=39573.
 
 => sus.png
 
+It was completed (just the 1-wide tunnel) on 2021-10-16.
+
 ## The Fanfic Tunnel
 
 Below (0,0), there exists a thirty-block-wide tunnel that is cleared out, or filled with art, for thousands of blocks.  A good portion of this tunnel is taken up by "Don't Go", a fanfic by Noelle Stevenson.
